@@ -1,4 +1,4 @@
-### Oi, eu sou o Daniel👋
+### Olá, me chamo Daniel. Bem vindo ao meu GitHub 
 
 
 <div>

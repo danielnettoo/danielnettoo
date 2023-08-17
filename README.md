@@ -10,7 +10,7 @@
  <br>
   
 <div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="[https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png](https://pnghut.com/png/e4zuAKeStT/java-logo-text-symbol-transparent-png)">
+  <img align="center" alt="Java" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png(https://pnghut.com/png/e4zuAKeStT/java-logo-text-symbol-transparent-png)">
   <img align="center" alt="Kotlin" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/docker.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

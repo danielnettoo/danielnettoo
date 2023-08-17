@@ -1,3 +1,6 @@
+﻿<img src="https://github.com/danielnettoo/danielnettoo/blob/main/octocat-1692234446621.png" max-width="400px" width="400px" align="right"/>
+
+
 ### Olá, me chamo Daniel. Bem vindo ao meu GitHub 
 <br>
 <div align="auto">

@@ -1,8 +1,14 @@
 ### Olá, me chamo Daniel. Bem vindo ao meu GitHub 
+<br>
+<div align="auto">
+  <a href="https://github.com/danielnettoo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnettoo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+ <hr>
 
- <br>
-  
+### :rocket: Minhas skills
+<br>   
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png">
   <img align="center" alt="Kotlin" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png">
@@ -11,8 +17,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
  <br>
+ <hr>
 
   ### Minhas redes sociais
 

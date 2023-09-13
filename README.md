@@ -3,10 +3,7 @@
 
 ### Olá, me chamo Daniel. Bem vindo ao meu GitHub 
 <br>
-<div align="auto">
-  <a href="https://github.com/danielnettoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnettoo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
  <hr>
 

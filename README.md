@@ -6,7 +6,7 @@
 
 <br>
 
-## Contact
+## 📞 &nbsp;Contact
 <a href="https://linkedin.com/in/danielnettoo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-danielnettoo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>

@@ -1,12 +1,12 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/danielnettoo/b7486a2793ee82e153d270d6ed1a9606/raw/02627d48b6431c84b0ba8141b8577f9ca8d3336a/githubcard.svg"/>
-<h1 align="left">Hi, 👋🏼 I'm Daniel Netto</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/danielnettoo/e63f93cf4409523b5d514cbaeb23ac10/raw/85e27a07835cefc9c7968796d3aa3926508958f8/github-img.svg"/>
+<h1 align="left">Oi, 👋🏼 Eu sou o Daniel Netto</h1>
 
-### 👨‍💻 Mid Web Developer! 
-### Passionate about technology, innovation, Life, Universe and everything else. 🤖
+<h2>Desenvolvedor Fullstack</h2> 
+<p>Profissional de TI com experiência desde 2016, sendo 3 anos de trajetória na área de desenvolvimento Fullstack. Busco excelência nos projetos que trabalho. Conhecimentos de UX Design, desenvolvimento frontend, suporte a sistemas, backend e microsserviços. Domínio das tecnologias HTML, CSS, JavaScript, React, NodeJS e gerenciamento de banco de dados.</p>
 
 <br>
 
-## 📞 Contact
+<h3>Me siga nas minhas redes sociais</h3>
 <a href="https://linkedin.com/in/danielnettoo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-danielnettoo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -16,7 +16,7 @@
 
 <br><br>
 
-## 🛠 My Skills
+<h3>Tecnologias que conheço</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -32,10 +32,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![AWS](https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazonaws)&nbsp;
+![Google Cloud Plataform](https://img.shields.io/badge/-Google%20Cloud%20Plataform-05122A?style=flat&logo=googlecloudplataform)&nbsp;
 
 <br><br>
 
-## ⚙️ GitHub Analytics
+<h3>GitHub Analytics</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnettoo&layout=compact)
 

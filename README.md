@@ -6,7 +6,7 @@
 
 <br>
 
-## 📞 &nbsp;Contact
+## 📞 Contact
 <a href="https://linkedin.com/in/danielnettoo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-danielnettoo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -16,7 +16,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;My Skills
+## 🛠 My Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -35,7 +35,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnettoo&layout=compact)
 

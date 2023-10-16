@@ -9,7 +9,7 @@
 
 <br>
 
-<h3>Me siga nas minhas redes sociais (My social midias)</h3>
+<h3> Me siga nas minhas redes sociais (My social midias)</h3>
 <a href="https://linkedin.com/in/danielnettoo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-danielnettoo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -19,7 +19,7 @@
 
 <br><br>
 
-<h3>Tecnologias que conheço (My tools)</h3>
+<h3> Tecnologias que conheço (My stacks)</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -41,20 +41,6 @@
 
 <br><br>
 
-<h3>GitHub Analytics</h3>
+<h3> GitHub Analytics</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnettoo&layout=compact)
-
-
-<!--
-<p align="left" style="background:yellow">
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a> -->
-

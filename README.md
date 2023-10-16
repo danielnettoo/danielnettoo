@@ -1,12 +1,15 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/danielnettoo/e63f93cf4409523b5d514cbaeb23ac10/raw/85e27a07835cefc9c7968796d3aa3926508958f8/github-img.svg"/>
-<h1 align="left">Oi, 👋🏼 Eu sou o Daniel Netto</h1>
+<img align="center" src="https://raw.githubusercontent.com/gist/danielnettoo/bce81161cb95908d58680cecea213dfd/raw/c342b0002d122e3375321ef08d520b64d4fea48e/banner.svg"/>
 
-<h2>Desenvolvedor Fullstack</h2> 
-<p>Profissional de TI com experiência desde 2016, sendo 3 anos de trajetória na área de desenvolvimento Fullstack. Busco excelência nos projetos que trabalho. Conhecimentos de UX Design, desenvolvimento frontend, suporte a sistemas, backend e microsserviços. Domínio das tecnologias HTML, CSS, JavaScript, React, NodeJS e gerenciamento de banco de dados.</p>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/danielnettoo/e63f93cf4409523b5d514cbaeb23ac10/raw/85e27a07835cefc9c7968796d3aa3926508958f8/github-img.svg"/> -->
+
+<h2>Desenvolvedor Fullstack (Fullstack Developer)</h2> 
+<p>Me chamo Daniel Netto. Profissional de TI com experiência desde 2016, sendo 3 anos de trajetória na área de desenvolvimento Fullstack. Busco excelência nos projetos que trabalho. Conhecimentos de UX Design, desenvolvimento frontend, suporte a sistemas, backend e microsserviços. Domínio das tecnologias HTML, CSS, JavaScript, React, NodeJS e gerenciamento de banco de dados.</p>
+
+<p>My name is Daniel Netto. IT professional with experience since 2016, with 3 years of experience in the Fullstack development area. I seek excellence in the projects I work on. Knowledge of UX Design, frontend development, systems support, backend and microservices. Mastery of HTML, CSS, JavaScript, React, NodeJS and database management.</p>
 
 <br>
 
-<h3>Me siga nas minhas redes sociais</h3>
+<h3>Me siga nas minhas redes sociais (My social midias)</h3>
 <a href="https://linkedin.com/in/danielnettoo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-danielnettoo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -16,7 +19,7 @@
 
 <br><br>
 
-<h3>Tecnologias que conheço</h3>
+<h3>Tecnologias que conheço (My tools)</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;

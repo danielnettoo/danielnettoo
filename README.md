@@ -1,5 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/gist/danielnettoo/bce81161cb95908d58680cecea213dfd/raw/c342b0002d122e3375321ef08d520b64d4fea48e/banner.svg"/>
-
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/danielnettoo/e63f93cf4409523b5d514cbaeb23ac10/raw/85e27a07835cefc9c7968796d3aa3926508958f8/github-img.svg"/> -->
 
 <h2>Desenvolvedor Fullstack (Fullstack Developer)</h2> 
